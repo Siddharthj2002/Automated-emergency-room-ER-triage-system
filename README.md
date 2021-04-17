@@ -1,7 +1,7 @@
 # Automated-Emergency-Room-ER-Triage-System
 
 
-● Overview:
+● Project Description:
 
   The project implements a futuristic automated emergency room (ER) triage system.
   The system receives data in the form of patient and injury pairs over time and automatically
